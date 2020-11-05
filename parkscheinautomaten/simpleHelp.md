@@ -2,8 +2,8 @@ Der Datensatz umfasst die circa 100 von der Stadt Wuppertal in den Innenstadtber
 Elberfeld und Barmen zur Bewirtschaftung der öffentlichen Parkplatzflächen und Parkstreifen 
 betriebenen Parkscheinautomaten (PSA). In allen anderen Stadtteilen werden keine Parkgebühren 
 mittels PSA durch die Stadt Wuppertal erhoben. Die Standorte der PSA wurden auf der 
-Grundlage kommunaler Orthofotos mit einer Genauigkeit von ca. 1 m digitalisiert. D
-arüber hinaus enthält der Datensatz zu jedem Objekt Informationen zur Bezeichnung des PSA, 
+Grundlage kommunaler Orthofotos mit einer Genauigkeit von ca. 1 m digitalisiert. Darüber 
+hinaus enthält der Datensatz zu jedem Objekt Informationen zur Bezeichnung des PSA, 
 zur Anzahl der zugehörigen Stellplätze und zu den Parkgebühren. Der Datenbestand der PSA 
 unterliegt seltenen Änderungen, die im Primärdatenbestand mit einem Fachverfahren 
 innerhalb des webbasierten städtischen Geoinfomationssystems "WuNDa" zeitnah erfasst werden. 

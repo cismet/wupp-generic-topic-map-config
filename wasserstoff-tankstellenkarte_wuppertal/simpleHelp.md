@@ -1,4 +1,4 @@
-Als Mitglied der Wasserstoff- Kompetenzregion Düssel.Rhein.Wupper treibt die Stadt Wuppertal 
+Als Mitglied der Wasserstoff- Kompetenzregion *Düssel.Rhein.Wupper* treibt die Stadt Wuppertal 
 die Wasserstoff-Mobilität im öffentlichen Sektor voran. Die Kompetenzregion mit den weiteren 
 Städten Düsseldorf und Duisburg, dem Rhein-Kreis Neuss und den Unternehmen Wuppertaler Stadtwerke (WSW), 
 Stadtwerke Düsseldorf und Air Liquide ist Sieger des in 2018 gestarteten Landeswettbewerbs "Modellkommune/-region Wasserstoffmobilität NRW". 

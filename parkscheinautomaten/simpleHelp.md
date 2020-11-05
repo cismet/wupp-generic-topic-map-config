@@ -9,7 +9,7 @@ unterliegt seltenen Änderungen, die im Primärdatenbestand mit einem Fachverfah
 innerhalb des webbasierten städtischen Geoinfomationssystems "WuNDa" zeitnah erfasst werden. 
 
 
-<img width="30%" alt="Bildschirmfoto 2020-11-05 um 11 22 32" src="https://user-images.githubusercontent.com/837211/98228706-3c59ca80-1f59-11eb-9a10-fa47558d853d.png">
+<img width="300" alt="Bildschirmfoto 2020-11-05 um 11 22 32" src="https://user-images.githubusercontent.com/837211/98228706-3c59ca80-1f59-11eb-9a10-fa47558d853d.png">
 
 Die als Open Data unter der Lizenz CC BY 4.0 bereitgestellten ESRI - Shapefiles und KML - Dateien 
 werden in einem automatisierten Prozess wöchentlich aktualisiert.

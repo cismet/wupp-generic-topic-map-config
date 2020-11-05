@@ -1,6 +1,6 @@
 {
     "tm": {
-        "fullScreenControl": true,
+        "fullScreenControl": false,
         "locatorControl": true,
         "gazetteerSearchBox": true,
         "noInitialLoadingText": true,

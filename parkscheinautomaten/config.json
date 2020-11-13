@@ -24,6 +24,7 @@
             "zoom": 8
         },
         "applicationMenuTooltipString": "Einstellungen | Anleitung",
+        "applicationMenuIntroductionTerm": "der Parkscheinautomaten",
         "applicationMenuIconname": "bars",
         "clusteringEnabled": true,
         "clusterOptions": {

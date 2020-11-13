@@ -36,8 +36,8 @@
                 "https://updates.cismet.de/docs/h2.shell.2.png"
             ],
             "secondaryInfos": {
-                "title": "Datenblatt: Wasserstoffstation Shell Tankstelle",
-                "iconName": "charging-station",
+                "title": "Datenblatt: Wasserstofftankstelle Shell Tankstelle",
+                "iconName": "gas-pump",
                 "image": "https://updates.cismet.de/docs/h2.shell.0.png",
                 "md": "**Adresse**:\nSchmiedestraße 91\n\n<div style=\"padding-top:20px;\"/>Autobahnanbindung A1 (Dreieck Wuppertal Nord) und A46 (Wuppertal Oberbarmen).\n\n<div style=\"padding-top:20px;\"/>\n\n**Öffnungszeiten: **24 Stunden / 7 Tage",
                 "secondarySections": [

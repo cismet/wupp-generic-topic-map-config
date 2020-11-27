@@ -29,7 +29,11 @@
 		"foto": "https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_1.jpg",
 		"fotos": [
 			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_1.jpg",
-			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_2.jpg"
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_2.jpg",
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_3.jpg",
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_4.jpg",
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_5.jpg",
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_6.jpg"
 		],
 		"secondaryInfos": {
 			"title": "Datenblatt: Wasserstofftankstelle Shell Tankstelle",

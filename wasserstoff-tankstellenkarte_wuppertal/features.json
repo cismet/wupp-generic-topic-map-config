@@ -26,19 +26,19 @@
 		},
 		"tel": "+49-202-6294410",
 		"url": "https://www.think-ing.de/unternehmen/shell-deutsche-shell-holding-gmbh-hamburg",
-		"foto": "https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_1.jpg",
+		"foto": "https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_01.jpg",
 		"fotos": [
-			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_1.jpg",
-			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_2.jpg",
-			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_3.jpg",
-			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_4.jpg",
-			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_5.jpg",
-			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_6.jpg"
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_01.jpg",
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_02.jpg",
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_03.jpg",
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_04.jpg",
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_05.jpg",
+			"https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_06.jpg"
 		],
 		"secondaryInfos": {
 			"title": "Datenblatt: Wasserstofftankstelle Shell Tankstelle",
 			"iconName": "gas-pump",
-			"image": "https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_1.jpg",
+			"image": "https://www.wuppertal.de/geoportal/emobil/autos/fotos/wasserstoff_01.jpg",
 			"md": "**Adresse**:\nSchmiedestraße 91\n\n<div style=\"padding-top:20px;\"/>Autobahnanbindung A1 (Dreieck Wuppertal Nord) und A46 (Wuppertal Oberbarmen).\n\n<div style=\"padding-top:20px;\"/>\n\n**Öffnungszeiten: **24 Stunden / 7 Tage",
 			"secondarySections": [{
 					"title": "Zapfmöglichkeit verfügbar (online)",

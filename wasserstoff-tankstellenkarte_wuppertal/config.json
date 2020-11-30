@@ -24,6 +24,7 @@
             "zoom": 14
         },
         "applicationMenuTooltipString": "Einstellungen | Anleitung",
+        "applicationMenuTitle": "Einstellungen und Kompaktanleitung",
         "applicationMenuIntroductionMarkdown": "Über **Einstellungen** können Sie die Darstellung der Hintergrundkarte und der Wasserstofftankstelle an Ihre Vorlieben anpassen. Wählen Sie **Kompaktanleitung**  für detailliertere Bedienungsinformationen.",
         "applicationMenuIconname": "bars",
         "clusterOptions": {

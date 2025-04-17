@@ -1,0 +1,20 @@
+{
+  "tm": {
+    "noFeatureCollection": true,
+    "applicationMenuIntroductionMarkdown": "Über **Einstellungen** können Sie die Darstellung der Hintergrundkarte an Ihre Vorlieben anpassen. Wählen Sie **Kompaktanleitung** für detailliertere Bedienungsinformationen und **Urbaner Digitaler Zwilling** für eine Einordnung der Trinkwasserbrunnenkarte in das Gesamtsystem des Digitalen Zwillings der Stadt Wuppertal.",
+
+    "vectorStyle": "https://tiles.cismet.de/poi/trinkwasserbrunnen.style.json",
+    "infoboxMapping": [
+      "foto: p.foto",
+      "headerColor:p.schrift",
+      "header:p.kombi",
+      "title:p.geographicidentifier",
+      "additionalInfo:p.adresse",
+      "subtitle: p.info",
+      "url:p.url",
+      "tel:p.telefon",
+      "email:p.email",
+      "modal:'trinkwasser'"
+    ]
+  }
+}

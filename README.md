@@ -1,4 +1,4 @@
-# Config Files for the Genieric Topic Map Project
+# Config Files for the Generic Topic Map Project
 
 ### devDeployment
 

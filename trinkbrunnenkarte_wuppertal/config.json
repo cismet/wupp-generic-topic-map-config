@@ -8,7 +8,7 @@
         "style": "https://tiles.cismet.de/poi/trinkwasserbrunnen.style.json"
       }
     ],
-    "applicationMenuSkipSymbolsizeSetting": false,
+    "applicationMenuSkipSymbolsizeSetting": true,
     "infoboxMapping": [
       "foto: p.foto",
       "headerColor:p.schrift",

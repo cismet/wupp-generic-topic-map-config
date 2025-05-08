@@ -5,7 +5,7 @@
     "noFeatureCollection": true,
     "vectorLayers": [
       {
-        "name": "Wohnlagen",
+        "name": "Verwendete Fachdaten: Wohnlagen Wuppertal",
         "style": "https://tiles.cismet.de/wohnlagen2024/style.json",
         "opacity": 0.5,
         "addMetaInfoToHelp": true,

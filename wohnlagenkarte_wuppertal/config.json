@@ -5,7 +5,7 @@
     "noFeatureCollection": true,
     "vectorLayers": [
       {
-        "name": "Wohnlagen",
+        "name": "Fachdaten: Wohnlagen",
         "style": "https://tiles.cismet.de/wohnlagen2025/style.json",
         "opacity": 0.5,
         "addMetaInfoToHelp": true,

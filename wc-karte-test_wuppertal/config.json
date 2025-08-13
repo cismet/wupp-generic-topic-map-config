@@ -6,7 +6,6 @@
     "previewMapPosition": "lat=51.26041096180761&lng=7.175016403198243&zoom=13",
     "applicationMenuSkipSymbolsizeSetting": false,
 
-    "noFeatureCollection": true,
     "vectorLayers": [
       {
         "name": "öffentliche Toiletten",

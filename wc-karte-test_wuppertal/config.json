@@ -15,6 +15,9 @@
         "style": "https://tiles.cismet.de/poi/offentliche-toiletten.style.json",
         "opacity": 1
       }
-    ]
+    ],
+     "infoboxMapping": [
+      "function createInfoBoxInfo(p) { const color = '#006c72'; // feste Farbe const info = { title: 'Toilette', headerColor: color, header: 'Öffentliche Toiletten', }; return info; }"
+    ],
   }
 }

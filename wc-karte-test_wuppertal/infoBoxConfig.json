@@ -1,0 +1,12 @@
+{
+  "pixelwidth": 300,
+  "header": "Öffentliche Toiletten",
+  "displaySecondaryInfoAction": true,
+
+  "navigator": {
+    "noun": {
+      "singular": "Öffentliche Toilette",
+      "plural": "Öffentliche Toieletten"
+    }
+  },
+  "noCurrentFeatureTitle": "Keine öffentliche Toilette gefunden",

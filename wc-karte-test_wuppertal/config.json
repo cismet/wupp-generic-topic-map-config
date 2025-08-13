@@ -17,7 +17,7 @@
       }
     ],
      "infoboxMapping": [
-      "function createInfoBoxInfo(p) { const color = '#006c72'; // feste Farbe const info = { title: 'Toilette', headerColor: color, header: 'Öffentliche Toiletten', }; return info; }"
+      "function createInfoBoxInfo(p) { const color = '#006c72'; const info = { title: 'Toilette', headerColor: color, header: 'Öffentliche Toiletten', }; return info; }"
     ],
   }
 }

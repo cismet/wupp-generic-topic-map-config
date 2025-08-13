@@ -14,7 +14,6 @@
         "layerType": "vector",
         "style": "https://tiles.cismet.de/poi/offentliche-toiletten.style.json",
         "opacity": 1
-        "settingsSymbol": "@rakete.svg"
       }
     ]
   }

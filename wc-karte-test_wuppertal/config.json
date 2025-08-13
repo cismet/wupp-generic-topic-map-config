@@ -11,6 +11,7 @@
         "addMetaInfoToHelp": true,
         "layerType": "vector",
         "style": "https://tiles.cismet.de/poi/offentliche-toiletten.style.json",
+        "styleManipulation": "@toilettenStyleModification.js",
         "opacity": 1
       }
     ]

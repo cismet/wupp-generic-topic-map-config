@@ -17,7 +17,7 @@
       }
     ],
      "infoboxMapping": [
-       "function createInfoBoxInfo(p) { const color = '#006c72'; const info = { title: p, headerColor: color, header: 'Öffentliche Toiletten', }; return info; }"
+       "function createInfoBoxInfo(p) { const color = '#006c72'; const info = { title: p.name, headerColor: color, header: 'Öffentliche Toiletten', }; return info; }"
     ],
      "capabilities": "https://maps.wuppertal.de/poi?service=WMS&request=GetCapabilities&version=1.1.1",
      "capabilitiesLayer": "poi_toiletten"

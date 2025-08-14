@@ -14,6 +14,7 @@
         "layerType": "vector",
         "style": "https://tiles.cismet.de/poi/offentliche-toiletten.style.json",
         "styleManipulation": "@toilettenStyleModification.js",
+        "settingsSymbol": "@Icon_WC_farbig.svg",
         "opacity": 1
       }
     ]

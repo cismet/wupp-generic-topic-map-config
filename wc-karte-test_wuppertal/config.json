@@ -11,7 +11,7 @@
       "spiderfyOnMaxZoom": true,
       "showCoverageOnHover": false,
       "zoomToBoundsOnClick": false,
-      "maxClusterRadius": 100,
+      "maxClusterRadius": 5000,
       "disableClusteringAtZoom": 19,
       "animate": false,
       "cismapZoomTillSpiderfy": 10,

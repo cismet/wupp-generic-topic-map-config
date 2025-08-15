@@ -6,12 +6,6 @@
     "noFeatureCollection": true,
     "applicationMenuSkipSymbolsizeSetting": false,
     "gazetteerSearchBoxPlaceholdertext": "Wohin?",
-    "gazetteerSearchBox": false,
-    "fullScreenControl": false,
-    "locatorControl": false,
-    "zoomControls": false,
-    "noFeatureCollection": true,
-
     
     
     "vectorLayers": [

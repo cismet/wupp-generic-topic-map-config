@@ -9,7 +9,7 @@
     
     "vectorLayers": [
       {
-        "name": "öffentliche Toiletten",
+        "name": "Öffentliche Toiletten",
         "layer": "poi_toiletten@https://maps.wuppertal.de/poi?service=WMS&request=GetCapabilities&version=1.1.1",
         "addMetaInfoToHelp": true,
         "layerType": "vector",

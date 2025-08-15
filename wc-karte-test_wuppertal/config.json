@@ -6,6 +6,7 @@
     "noFeatureCollection": true,
     "applicationMenuSkipSymbolsizeSetting": false,
     "gazetteerSearchBoxPlaceholdertext": "Wohin?",
+    "clusteringEnabled": true,
     
     
     "vectorLayers": [

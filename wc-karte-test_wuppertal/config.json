@@ -18,9 +18,5 @@
         "settingsSymbol": "@Icon_WC_farbig.svg",
         "opacity": 1
       }
-    ],
- "infoboxMapping": [
-    "function createInfoBoxInfo(p) {\n  const info = {\n    headerColor: \"#E65E14\",\n    header: \"Öffentliche Toiletten\",\n    title: \"City-Toilette Markmannsgasse\",\n    additionalInfo: \"<html>Markmannsgasse<br/>50677 Köln</html>\",\n    subtitle: '<html><div style=\"width:100%; display:flex; gap:4px; flex-wrap:wrap; margin-top:4px;\"><img src=\"https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_24h_5bff218619.png\" style=\"height:24px;\"/><img src=\"https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_Barrierefrei_5034f24759.png\" style=\"height:24px;\"/><img src=\"https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_Wickeltisch_eac861f52d.png\" style=\"height:24px;\"/><img src=\"https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_Urinale_c609c32a00.png\" style=\"height:24px;\"/><img src=\"https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_kostenpflichtig_a4f00195a5.png\" style=\"height:24px;\"/></div></html>',\n    url: \"https://cismet.de\",\n    tel: \"0800nofuzz\",\n  };\n  return info;\n}"
-  ],
   }
 }

@@ -1,5 +1,5 @@
 {
-  "tm": {
+  "tm": {https://github.com/cismet/wupp-generic-topic-map-config/blob/dev/wc-karte-test_wuppertal/config.json
     "windowtitle": "WC-Karte Wuppertal",
     "noFeatureCollection": true,
     "applicationMenuIntroductionMarkdown": "Die WC-Karte Wuppertal ist eine Anwendung der **GenericTopicMap Wuppertal**. Dies ist eine Komponente aus dem Gesamtsystem des Digitalen Zwillings der Stadt Wuppertal (**DigiTal Zwilling**), mit der eine einfache, für den mobilen Einsatz prädestinierte Web-Karte erzeugt werden kann, indem zwei Konfigurationsdateien angepasst werden. Über **Einstellungen** können Sie die Darstellung der Hintergrundkarte an Ihre Vorlieben anpassen. Wählen Sie **Kompaktanleitung** für detailliertere Bedienungsinformationen und **Urbaner Digitaler Zwilling** für eine Einordnung der WC-Karte in den Kontext des DigiTal Zwillings.",
@@ -19,20 +19,8 @@
         "opacity": 1
       }
     ],
-    "infoboxMapping": [
-      "function createInfoBoxInfo(p) {
-
-  const info = {
-    headerColor:"#E65E14",
-    header: "Öffentliche Toiletten",
-    title: "City-Toilette Markmannsgasse",
-    additionalInfo: "<html>Markmannsgasse<br/>50677 Köln</html>",
-    subtitle: '<html><div style="width:100%; display:flex; gap:4px; flex-wrap:wrap; margin-top:4px;"><img src="https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_24h_5bff218619.png" style="height:24px;"/><img src="https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_Barrierefrei_5034f24759.png" style="height:24px;"/><img src="https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_Wickeltisch_eac861f52d.png" style="height:24px;"/><img src="https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_Urinale_c609c32a00.png" style="height:24px;"/><img src="https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_kostenpflichtig_a4f00195a5.png" style="height:24px;"/></div></html>', 
-    url: "https://cismet.de",
-    tel: "0800nofuzz",
-  };
-  return info;
-  }
+ "infoboxMapping": [
+    "function createInfoBoxInfo(p) {\n  const info = {\n    headerColor: \"#E65E14\",\n    header: \"Öffentliche Toiletten\",\n    title: \"City-Toilette Markmannsgasse\",\n    additionalInfo: \"<html>Markmannsgasse<br/>50677 Köln</html>\",\n    subtitle: '<html><div style=\"width:100%; display:flex; gap:4px; flex-wrap:wrap; margin-top:4px;\"><img src=\"https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_24h_5bff218619.png\" style=\"height:24px;\"/><img src=\"https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_Barrierefrei_5034f24759.png\" style=\"height:24px;\"/><img src=\"https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_Wickeltisch_eac861f52d.png\" style=\"height:24px;\"/><img src=\"https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_Urinale_c609c32a00.png\" style=\"height:24px;\"/><img src=\"https://www.toiletten.koeln/fileadmin/_processed_/csm_AWB_Icon_kostenpflichtig_a4f00195a5.png\" style=\"height:24px;\"/></div></html>',\n    url: \"https://cismet.de\",\n    tel: \"0800nofuzz\",\n  };\n  return info;\n}"
   ],
   }
 }

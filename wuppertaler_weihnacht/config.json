@@ -9,6 +9,8 @@
         "layer": "poi_weihnacht@https://maps.wuppertal.de/poi?service=WMS&request=GetCapabilities&version=1.1.1",
         "addMetaInfoToHelp": true,
         "layerType": "vector",
+        "styleManipulation": "@weihnachtsmarktStyleModification.js",
+        "settingsSymbol": "@Icon_Weihnachtsmarkt2_farbig.svg",
         "style": "https://tiles.cismet.de/poi/weihnachtsmarkte.style.json",
         "infoboxMapping": [
           "foto: p.foto",

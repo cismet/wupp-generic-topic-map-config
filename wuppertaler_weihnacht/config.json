@@ -5,16 +5,6 @@
     "applicationMenuIntroductionMarkdown": "Die Wuppertaler Weihnachtsmarkt-Karte ist eine Anwendung der **GenericTopicMap Wuppertal**. Sie ist Bestandteil des Digitalen Zwillings der Stadt Wuppertal (**DigiTal Zwilling**) und ermöglicht eine benutzerfreundliche, mobil optimierte Karte der Weihnachtsmärkte in Wuppertal. Über Einstellungen können Sie das Layout und die Details der Karte individuell konfigurieren. Wählen Sie Kompakt- bzw. Detailansicht für unterschiedliche Informationsbedarfe.",
     "vectorLayers": [
       {
-        "name": "Stadtplanwerk 2.0 (graublau)",
-        "layer": "spw2_graublau@https://maps.wuppertal.de/karten?service=WMS&request=GetCapabilities&version=1.1.1",
-        "addMetaInfoToHelp": true,
-        "layerType": "wmts",
-        "infoboxMapping": [],
-        "url": "https://maps.wuppertal.de/karten?",
-        "layers": "spw2_graublau",
-        "opacity": 1
-      },
-      {
         "name": "Fachdaten: Weihnachtsmärkte",
         "layer": "poi_weihnacht@https://maps.wuppertal.de/poi?service=WMS&request=GetCapabilities&version=1.1.1",
         "addMetaInfoToHelp": true,

@@ -13,7 +13,7 @@ function styleManipulation(markerSymbolSize, style) {
 
     // offentliche-toiletten-poi-images icon-size
     const images = newStyle.layers.find(
-        (l) => l.id === "weihnachtsmarkte-poi-image"
+        (l) => l.id === "weihnachtsmarkte-poi-images"
     );
     if (images) {
         images.layout["icon-size"].stops[0][1] *= scale;

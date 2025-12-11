@@ -16,6 +16,36 @@
       "function createInfoBoxInfo(p) { let color = '#006c72'; switch(p.wlcode) { case 1: color = '#FF0000'; break; case 2: color = '#FFC000'; break; case 3: color = '#92D050'; break; case 4: color = '#00C5FF'; break; } const info = { title: p.wohnlage, headerColor: color, header: 'Wohnlagen 2025', }; return info; }"
     ],
     "capabilities": "https://maps.wuppertal.de/immo?service=WMS&request=GetCapabilities&version=1.1.1",
-    "capabilitiesLayer": "wohnlagen2025"
+    "capabilitiesLayer": "wohnlagen2025",
+    "filters": [
+      {
+        "key": "einfach",
+        "label": "Einfach",
+        "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12'%3E%3Crect width='12' height='12' rx='2' fill='%23FF0000'/%3E%3C/svg%3E",
+        "propertyName": "wohnlage",
+        "propertyValue": "einfache Wohnlage"
+      },
+      {
+        "key": "mittel",
+        "label": "Mittel",
+        "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12'%3E%3Crect width='12' height='12' rx='2' fill='%23FFC000'/%3E%3C/svg%3E",
+        "propertyName": "wohnlage",
+        "propertyValue": "mittlere Wohnlage"
+      },
+      {
+        "key": "gut",
+        "label": "Gut",
+        "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12'%3E%3Crect width='12' height='12' rx='2' fill='%2392D050'/%3E%3C/svg%3E",
+        "propertyName": "wohnlage",
+        "propertyValue": "gute Wohnlage"
+      },
+      {
+        "key": "exklusiv",
+        "label": "Exklusiv",
+        "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12'%3E%3Crect width='12' height='12' rx='2' fill='%2300C5FF'/%3E%3C/svg%3E",
+        "propertyName": "wohnlage",
+        "propertyValue": "exklusive Wohnlage"
+      }
+    ]
   }
 }
